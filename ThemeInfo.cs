@@ -1,13 +1,13 @@
 ﻿using Oqtane.Themes;
 
-namespace Oqtane.Theme.Cerulean
+namespace Oqtane.Theme.NewCo
 {
     public class ThemeInfo : ITheme
     {
         public Models.Theme Theme => new Models.Theme
         {
-            Name = "Bootswatch Cerulean Theme",
-            Version = "1.0.1",
+            Name = "NewCo Theme",
+            Version = "0.0.1",
         };
     }
 }

@@ -3,13 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <RazorLangVersion>3.0</RazorLangVersion>
-    <Version>1.0.1</Version>
-    <Authors>Shaun Walker</Authors>
-    <Company>.NET Foundation</Company>
+    <Version>1.0.2</Version>
+    <Authors>cmr</Authors>
+    <Company>newco</Company>
     <Description>Custom Theme</Description>
-    <Product>Oqtane.Theme.Cerulean</Product>
-    <Copyright>.NET Foundation</Copyright>
-    <AssemblyName>Oqtane.Theme.Cerulean.Oqtane</AssemblyName>
+    <Product>Oqtane.Theme.NewCo</Product>
+    <Copyright>cmr</Copyright>
+    <AssemblyName>Oqtane.Theme.NewCo.Oqtane</AssemblyName>
   </PropertyGroup>
   
   <ItemGroup>
